@@ -1,21 +1,18 @@
 package cinema;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 import java.util.Objects;
 
 public class Seats {
     int row;
     int column;
     int price;
+    /*@JsonIgnore
+    boolean isPurchased = false;*/
 
-    @JsonIgnore
-    boolean isPurchased = false;
-
-    public Seats(int row, int column, int price) {
+    public Seats(int row, int column) {
         this.row = row;
         this.column = column;
-        this.price = price;
+        this.price = row <= 4 ? 10 : 8;
     }
 
     public int getRow() {
@@ -42,14 +39,14 @@ public class Seats {
         this.price = price;
     }
 
-    @JsonIgnore
+    /*@JsonIgnore
     public boolean isPurchased() {
         return isPurchased;
     }
 
     public void setPurchased(boolean purchased) {
         isPurchased = purchased;
-    }
+    }*/
 
     @Override
     public boolean equals(Object o) {

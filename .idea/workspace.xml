@@ -5,181 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede6287f-a005-48d5-85af-53f181aa2362" name="Changes" comment="# version.final 05:24 06.04.23">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.3.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.4/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_12_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_micrometer_micrometer_core_1_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_to_slf4j_2_14_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_autoconfigure_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_actuator_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_3_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/classes/java/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/classes/java/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/classes/java/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/reports/tests/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/reports/tests/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/reports/tests/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/test-results/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/test-results/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/test-results/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/tmp/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/tmp/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema Room REST Service (Java)/task/build/tmp/Cinema_Room_REST_Service_(Java).Cinema_Room_REST_Service__Java_-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Cinema_Room_REST_Service_(Java).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Determine values of variables/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Determine_values_of_variables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Determine values of variables/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Determine_values_of_variables.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Determine values of variables/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Determine_values_of_variables.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Existing implementations/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Existing_implementations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Existing implementations/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Existing_implementations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Existing implementations/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Existing_implementations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Kidnapper of Ice cream/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Kidnapper_of_Ice_cream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Kidnapper of Ice cream/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Kidnapper_of_Ice_cream.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Kidnapper of Ice cream/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Kidnapper_of_Ice_cream.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Tricky sub-maps/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Tricky_sub-maps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Tricky sub-maps/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Tricky_sub-maps.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Map interface/Tricky sub-maps/Cinema_Room_REST_Service_(Java).Topics-The_Map_interface-Tricky_sub-maps.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Elements_of_a_set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Elements_of_a_set.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Elements of a set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Elements_of_a_set.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Essentials/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Essentials.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Essentials/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Essentials.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Essentials/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Essentials.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Removing elements/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Removing_elements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Removing elements/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Removing_elements.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Removing elements/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Removing_elements.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Spell checker/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Spell_checker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Spell checker/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Spell_checker.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/Spell checker/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-Spell_checker.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/The most suitable set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-The_most_suitable_set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/The most suitable set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-The_most_suitable_set.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/The most suitable set/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-The_most_suitable_set.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/TreeSet storage order/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-TreeSet_storage_order.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/TreeSet storage order/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-TreeSet_storage_order.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The Set interface/TreeSet storage order/Cinema_Room_REST_Service_(Java).Topics-The_Set_interface-TreeSet_storage_order.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Join/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Join.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Join/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Join.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Join/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Join.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Summing with threads/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Summing_with_threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Summing with threads/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Summing_with_threads.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Summing with threads/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Summing_with_threads.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/The order of lines/Cinema_Room_REST_Service_(Java).Topics-Thread_management-The_order_of_lines.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/The order of lines/Cinema_Room_REST_Service_(Java).Topics-Thread_management-The_order_of_lines.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/The order of lines/Cinema_Room_REST_Service_(Java).Topics-Thread_management-The_order_of_lines.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/VeganPizza/Cinema_Room_REST_Service_(Java).Topics-Thread_management-VeganPizza.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/VeganPizza/Cinema_Room_REST_Service_(Java).Topics-Thread_management-VeganPizza.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/VeganPizza/Cinema_Room_REST_Service_(Java).Topics-Thread_management-VeganPizza.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Waiting for a thread/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Waiting_for_a_thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Waiting for a thread/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Waiting_for_a_thread.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread management/Waiting for a thread/Cinema_Room_REST_Service_(Java).Topics-Thread_management-Waiting_for_a_thread.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Countdown counter/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Countdown_counter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Countdown counter/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Countdown_counter.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Countdown counter/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Countdown_counter.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/Theory/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/What is wrong/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-What_is_wrong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/What is wrong/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-What_is_wrong.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Thread synchronization/What is wrong/Cinema_Room_REST_Service_(Java).Topics-Thread_synchronization-What_is_wrong.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Cinema Room REST Service (Java).Cinema_Room_REST_Service_(Java).util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Cinema Room REST Service (Java).Cinema_Room_REST_Service_(Java).util.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Cinema Room REST Service (Java).Cinema_Room_REST_Service_(Java).util.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/A change of plans/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/A change of plans/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/A change of plans/task.html" afterDir="false" />
@@ -193,97 +18,6 @@
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/The statistics/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/The statistics/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/bootJarMainClassName" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/bootScripts/Cinema_Room_REST_Service__Java_-task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/bootScripts/Cinema_Room_REST_Service__Java_-task.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/classes/java/main/cinema/CinemaController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/classes/java/main/cinema/CinemaRoom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/classes/java/main/cinema/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/classes/java/main/cinema/Seats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/classes/java/test/CinemaTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/distributions/Cinema_Room_REST_Service__Java_-task-boot.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/distributions/Cinema_Room_REST_Service__Java_-task-boot.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/distributions/Cinema_Room_REST_Service__Java_-task.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/distributions/Cinema_Room_REST_Service__Java_-task.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/libs/Cinema_Room_REST_Service__Java_-task-plain.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/libs/Cinema_Room_REST_Service__Java_-task.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/resources/main/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/scripts/Cinema_Room_REST_Service__Java_-task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/scripts/Cinema_Room_REST_Service__Java_-task.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_10968604616761387616_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_11190876528877587777_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_1121151543377213218_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_11272965164258486271_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_11339830784820321067_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_11342738024386193688_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_11751439438786486012_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_1251486567527060254_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_12874731355281832280_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_13008536233044782483_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_13096926123621313073_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_13905309578274597815_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_13935255086277569485_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_14136676232448229273_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_14676485788877225876_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_15124530504032664294_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_15156330746402491188_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_15358434327673736079_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_15939414256134588237_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16110400378810811236_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16173774757671446986_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16284248165345719648_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16417973686795727890_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16702545027745095761_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_16704349408072008388_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_17270635480693523906_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_17452423842158902392_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_17838573123100351144_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_2050773746131788074_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_2270814772187760926_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_362287719379197114_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_3716318875958394821_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_4050448111848821301_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_449095034879829364_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_460358149022767262_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_4625809720612454867_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_5184266506719869196_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_6433328917029592336_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_6550998682210501073_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_6840158715466302501_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_7376198119516371107_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_7957081320418747939_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_9326462430532483994_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_944582338718112511_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_9683426722153127701_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/build/tmp/test/jar_extract_9991900770482601336_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/CinemaController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/CinemaRoom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/Seats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/TicketError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/classes/cinema/TicketPurchasedException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/out/production/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/CinemaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/CinemaRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Seats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/resources/main/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/test/CinemaTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Topics/The Map interface/Basics of Maps/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Topics/The Map interface/Basics of Maps/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Topics/The Map interface/Basics of Maps/task.html" afterDir="false" />
@@ -416,19 +150,32 @@
       <change afterPath="$PROJECT_DIR$/Topics/Thread synchronization/What is wrong/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Topics/Thread synchronization/lesson-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/CinemaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/CinemaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/CinemaRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Seats.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/src/cinema/Seats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/test/CinemaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room REST Service (Java)/task/test/CinemaTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -490,8 +237,7 @@
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+      "directory"
     ]
   }
 }]]></component>
@@ -505,6 +251,14 @@
       <updated>1679963837951</updated>
       <workItem from="1680655771664" duration="7000" />
     </task>
+    <task id="LOCAL-00001" summary="# version.final 05:24 06.04.23">
+      <created>1680815500497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680815500497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,11 +266,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="# version.final 05:24 06.04.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="# version.final 05:24 06.04.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
