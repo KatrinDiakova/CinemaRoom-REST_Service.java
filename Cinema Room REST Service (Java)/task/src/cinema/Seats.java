@@ -1,18 +1,25 @@
 package cinema;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import java.util.Objects;
+import java.util.UUID;
 
 public class Seats {
     int row;
     int column;
     int price;
-    /*@JsonIgnore
-    boolean isPurchased = false;*/
+    @JsonIgnore
+    UUID token;
+
+    @JsonIgnore
+    boolean isAvailable = true;
 
     public Seats(int row, int column) {
         this.row = row;
         this.column = column;
         this.price = row <= 4 ? 10 : 8;
+        this.token = UUID.randomUUID();
     }
 
     public int getRow() {
@@ -39,15 +46,22 @@ public class Seats {
         this.price = price;
     }
 
-    /*@JsonIgnore
-    public boolean isPurchased() {
-        return isPurchased;
+    @JsonIgnore
+    public boolean getIsAvailable() {
+        return isAvailable;
     }
 
-    public void setPurchased(boolean purchased) {
-        isPurchased = purchased;
-    }*/
+    public void setAvailable(boolean isAvailable) {
+        this.isAvailable = isAvailable;
+    }
+    @JsonIgnore
+    public UUID getToken() {
+        return token;
+    }
 
+    public void setToken(UUID token) {
+        this.token = token;
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -60,4 +74,5 @@ public class Seats {
     public int hashCode() {
         return Objects.hash(row, column, price);
     }
+
 }
