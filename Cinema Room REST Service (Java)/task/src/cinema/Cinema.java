@@ -18,6 +18,12 @@ public class Cinema {
             }
         }
     }
+    public Cinema(int totalRows, int totalColumns, List<Seats> seatsList) {
+        this.totalRows = totalRows;
+        this.totalColumns = totalColumns;
+        this.seatsList = seatsList;
+    }
+
     public int getTotalRows() {
         return totalRows;
     }

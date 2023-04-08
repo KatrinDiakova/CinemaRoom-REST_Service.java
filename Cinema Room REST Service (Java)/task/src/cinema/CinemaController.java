@@ -1,5 +1,6 @@
 package cinema;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -11,8 +12,11 @@ import java.util.concurrent.ConcurrentHashMap;
 public class CinemaController {
     private Cinema cinema;
 
+    private Stats stats;
+
     public CinemaController() {
         this.cinema = new Cinema();
+        this.stats = new Stats();
     }
 
     @GetMapping("/seats")
@@ -34,6 +38,9 @@ public class CinemaController {
                             new ConcurrentHashMap<>(Map.of("error", "The ticket has been already purchased!")));
                 }
                 s.setAvailable(false);
+                stats.setCurrentIncome(s.price);
+                stats.numAvailableSeats--;
+                stats.numPurchasedSeats++;
                 return ResponseEntity.ok().body(
                         new ConcurrentHashMap<>(Map.of("token", s.getToken(), "ticket", seats)));
             }
@@ -47,12 +54,25 @@ public class CinemaController {
         for (Seats s : cinema.getSeatsList()) {
             if (Objects.equals(s.getToken().toString(), token)) {
                 s.setAvailable(true);
+                stats.minCurrentIncome(s.price);
+                stats.numPurchasedSeats--;
+                stats.numAvailableSeats++;
                 return ResponseEntity.ok().body(
                         new ConcurrentHashMap<>(Map.of("returned_ticket", s)));
             }
         }
         return ResponseEntity.badRequest().body(
                 new ConcurrentHashMap<>(Map.of("error", "Wrong token!")));
+    }
+
+    @PostMapping("/stats")
+    public ResponseEntity statistics(@RequestParam(value = "password", required = false) String password) {
+        if (password == null || !password.equals("super_secret")) {
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(
+                    new ConcurrentHashMap<>(Map.of( "error", "The password is wrong!"))
+            );
+        }
+        return ResponseEntity.ok().body(stats);
     }
 }
 

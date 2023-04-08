@@ -6,11 +6,11 @@ import java.util.Objects;
 import java.util.UUID;
 
 public class Seats {
-    int row;
-    int column;
-    int price;
+    protected int row;
+    protected int column;
+    protected int price;
     @JsonIgnore
-    UUID token;
+    protected UUID token;
 
     @JsonIgnore
     boolean isAvailable = true;
