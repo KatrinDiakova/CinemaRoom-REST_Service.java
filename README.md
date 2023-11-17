@@ -10,7 +10,7 @@ In this project, a Spring REST service was developed to manage a small movie the
 * **Ticket Refund Functionality:** Developed a method for ticket refunds, utilizing unique tokens to accurately identify and process each ticket.
 * **Theater Statistics & Security:** Added a feature for accessing movie theater statistics, secured with a password to ensure restricted and safe access.
 
-This project was in the "Java Backend Developer" track, applying core Spring Boot concepts in a realistic setting. It showcases the ability to create a functional and user-friendly digital solution for a private movie theater experience.
+This project was in the "Java Backend Developer" track of hyperskill.org JetBrain Academy, applying core Spring Boot concepts in a realistic setting. It showcases the ability to create a functional and user-friendly digital solution for a private movie theater experience.
 
 
 
